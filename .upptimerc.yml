@@ -4,9 +4,9 @@ repo: uptimeTrack # The name of this repository
 
 sites:
   - name: AlphaDevs
+    url: https://alphadevs.tech
+  - name: wwwAlphaDevs
     url: https://www.alphadevs.tech
-#   - name: IncubateIND
-#     url: https://en.wikipedia.org
 #   - name: Hacker News
 #     url: https://news.ycombinator.com
 #   - name: Test Broken Site

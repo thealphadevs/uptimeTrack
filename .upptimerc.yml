@@ -7,6 +7,10 @@ sites:
     url: https://alphadevs.tech
   - name: wwwAlphaDevs
     url: https://www.alphadevs.tech
+  - name: hack2skill
+    url: https://hack2skill.com
+  - name: www.h2s
+    url: https://www.hack2skill.com
 #   - name: Hacker News
 #     url: https://news.ycombinator.com
 #   - name: Test Broken Site

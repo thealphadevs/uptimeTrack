@@ -56,35 +56,39 @@
     "url": "https://hack2skill.com",
     "icon": "https://favicons.githubusercontent.com/hack2skill.com",
     "slug": "hack2skill",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 685,
-    "timeWeek": 648,
-    "timeMonth": 648,
-    "timeYear": 648,
-    "dailyMinutesDown": {}
+    "time": 623,
+    "timeDay": 603,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
+    "dailyMinutesDown": {
+      "2021-10-26": 0
+    }
   },
   {
     "name": "www.h2s",
     "url": "https://www.hack2skill.com",
     "icon": "https://favicons.githubusercontent.com/www.hack2skill.com",
     "slug": "www-h2s",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 665,
-    "timeWeek": 672,
-    "timeMonth": 672,
-    "timeYear": 672,
-    "dailyMinutesDown": {}
+    "time": 640,
+    "timeDay": 589,
+    "timeWeek": 640,
+    "timeMonth": 640,
+    "timeYear": 640,
+    "dailyMinutesDown": {
+      "2021-10-26": 0
+    }
   }
 ]

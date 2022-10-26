@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alphadevs.tech.ico",
     "slug": "alpha-devs",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.59%",
-    "time": 866,
-    "timeDay": 519,
-    "timeWeek": 400,
-    "timeMonth": 527,
-    "timeYear": 929,
+    "time": 865,
+    "timeDay": 312,
+    "timeWeek": 392,
+    "timeMonth": 528,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2022-10-04": 73,
       "2022-09-15": 57,
@@ -65,9 +65,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.72%",
     "time": 35,
-    "timeDay": 18,
+    "timeDay": 9,
     "timeWeek": 9,
-    "timeMonth": 12,
+    "timeMonth": 9,
     "timeYear": 39,
     "dailyMinutesDown": {
       "2022-10-04": 73,
@@ -107,10 +107,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 891,
-    "timeDay": 1208,
-    "timeWeek": 1202,
-    "timeMonth": 1127,
-    "timeYear": 893,
+    "timeDay": 937,
+    "timeWeek": 1163,
+    "timeMonth": 1130,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2022-09-07": 22,
       "2022-08-20": 29,
@@ -135,8 +135,7 @@
       "2021-12-23": 15,
       "2021-12-11": 17,
       "2021-11-11": 19,
-      "2021-11-10": 69,
-      "2021-10-26": 66
+      "2021-11-10": 69
     }
   },
   {
@@ -145,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hack2skill.com.ico",
     "slug": "www-h2s",
     "status": "down",
-    "uptime": "60.79%",
+    "uptime": "60.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.60%",
+    "uptimeYear": "60.34%",
     "time": 869,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 871,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2022-10-25": 141,
+      "2022-10-26": 117,
+      "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
@@ -314,8 +314,7 @@
       "2022-01-14": 56,
       "2021-12-28": 16,
       "2021-11-11": 18,
-      "2021-11-10": 69,
-      "2021-10-26": 66
+      "2021-11-10": 69
     }
   }
 ]

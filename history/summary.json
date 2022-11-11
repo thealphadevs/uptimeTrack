@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 852,
-    "timeDay": 335,
-    "timeWeek": 337,
-    "timeMonth": 478,
+    "time": 851,
+    "timeDay": 387,
+    "timeWeek": 367,
+    "timeMonth": 482,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2022-10-04": 73,
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 34,
-    "timeDay": 20,
+    "timeDay": 7,
     "timeWeek": 11,
     "timeMonth": 11,
     "timeYear": 39,
@@ -105,12 +105,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 901,
-    "timeDay": 1197,
-    "timeWeek": 1075,
-    "timeMonth": 1109,
-    "timeYear": 910,
+    "timeDay": 963,
+    "timeWeek": 1077,
+    "timeMonth": 1105,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2022-11-04": 24,
       "2022-10-27": 26,
@@ -135,8 +135,7 @@
       "2021-12-28": 17,
       "2021-12-27": 20,
       "2021-12-23": 15,
-      "2021-12-11": 17,
-      "2021-11-11": 19
+      "2021-12-11": 17
     }
   },
   {
@@ -145,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hack2skill.com.ico",
     "slug": "www-h2s",
     "status": "down",
-    "uptime": "58.26%",
+    "uptime": "58.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.24%",
+    "uptimeYear": "55.98%",
     "time": 869,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 881,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2022-11-10": 109,
+      "2022-11-11": 109,
+      "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -328,8 +328,7 @@
       "2022-03-15": 35,
       "2022-01-21": 147,
       "2022-01-14": 56,
-      "2021-12-28": 16,
-      "2021-11-11": 18
+      "2021-12-28": 16
     }
   }
 ]

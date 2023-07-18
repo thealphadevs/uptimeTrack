@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alphadevs.tech.ico",
     "slug": "alpha-devs",
     "status": "down",
-    "uptime": "87.39%",
+    "uptime": "87.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.52%",
-    "time": 854,
+    "uptimeYear": "75.24%",
+    "time": 855,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 927,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2023-07-17": 105,
+      "2023-07-18": 112,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -129,8 +130,7 @@
       "2022-07-27": 113,
       "2022-07-26": 58,
       "2022-07-25": 36,
-      "2022-07-23": 23,
-      "2022-07-18": 19
+      "2022-07-23": 23
     }
   },
   {
@@ -139,18 +139,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.alphadevs.tech.ico",
     "slug": "www-alpha-devs",
     "status": "down",
-    "uptime": "87.42%",
+    "uptime": "87.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.62%",
+    "uptimeYear": "75.34%",
     "time": 34,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2023-07-17": 105,
+      "2023-07-18": 112,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -271,11 +272,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1063,
-    "timeDay": 992,
-    "timeWeek": 1239,
-    "timeMonth": 1198,
-    "timeYear": 1145,
+    "time": 1064,
+    "timeDay": 1256,
+    "timeWeek": 1267,
+    "timeMonth": 1197,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2023-02-17": 25,
       "2023-02-12": 19,
@@ -293,7 +294,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hack2skill.com.ico",
     "slug": "www-h2s",
     "status": "down",
-    "uptime": "35.29%",
+    "uptime": "35.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -304,7 +305,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 105,
+      "2023-07-18": 112,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -667,8 +669,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   }
 ]

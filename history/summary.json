@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alphadevs.tech.ico",
     "slug": "alpha-devs",
     "status": "down",
-    "uptime": "81.01%",
+    "uptime": "80.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.42%",
-    "time": 921,
+    "uptimeYear": "60.15%",
+    "time": 922,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 641,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2023-09-11": 63,
+      "2023-09-12": 60,
+      "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -164,8 +165,7 @@
       "2022-12-22": 17,
       "2022-10-04": 73,
       "2022-09-15": 57,
-      "2022-09-13": 113,
-      "2022-09-12": 369
+      "2022-09-13": 113
     }
   },
   {
@@ -174,18 +174,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.alphadevs.tech.ico",
     "slug": "www-alpha-devs",
     "status": "down",
-    "uptime": "81.04%",
+    "uptime": "80.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.44%",
+    "uptimeYear": "60.16%",
     "time": 42,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2023-09-11": 63,
+      "2023-09-12": 60,
+      "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -333,8 +334,7 @@
       "2022-12-22": 17,
       "2022-10-04": 73,
       "2022-09-15": 57,
-      "2022-09-13": 113,
-      "2022-09-12": 298
+      "2022-09-13": 113
     }
   },
   {
@@ -349,9 +349,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.95%",
     "time": 1092,
-    "timeDay": 1119,
-    "timeWeek": 1058,
-    "timeMonth": 1141,
+    "timeDay": 965,
+    "timeWeek": 1036,
+    "timeMonth": 1134,
     "timeYear": 1179,
     "dailyMinutesDown": {
       "2023-09-09": 16,
@@ -373,18 +373,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hack2skill.com.ico",
     "slug": "www-h2s",
     "status": "down",
-    "uptime": "32.42%",
+    "uptime": "32.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 892,
+    "time": 889,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-11": 63,
+      "2023-09-12": 60,
+      "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -747,8 +748,7 @@
       "2022-09-16": 1440,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
-      "2022-09-13": 1440,
-      "2022-09-12": 1440
+      "2022-09-13": 1440
     }
   }
 ]

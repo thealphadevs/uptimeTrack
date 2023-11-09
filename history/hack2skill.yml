@@ -1,7 +1,7 @@
 url: https://hack2skill.com
-status: up
-code: 200
-responseTime: 1455
-lastUpdated: 2023-11-08T23:12:32.623Z
+status: down
+code: 502
+responseTime: 585
+lastUpdated: 2023-11-09T02:00:06.231Z
 startTime: 2021-10-23T07:59:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

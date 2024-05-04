@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alphadevs.tech.ico",
     "slug": "alpha-devs",
     "status": "down",
-    "uptime": "62.00%",
+    "uptime": "61.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-03": 68,
+      "2024-05-04": 65,
+      "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -379,8 +380,7 @@
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.alphadevs.tech.ico",
     "slug": "www-alpha-devs",
     "status": "down",
-    "uptime": "62.03%",
+    "uptime": "61.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-03": 68,
+      "2024-05-04": 65,
+      "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -763,8 +764,7 @@
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   },
   {
@@ -778,9 +778,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1206,
-    "timeDay": 1485,
-    "timeWeek": 1282,
+    "time": 1207,
+    "timeDay": 1161,
+    "timeWeek": 1279,
     "timeMonth": 1266,
     "timeYear": 1209,
     "dailyMinutesDown": {
@@ -807,7 +807,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hack2skill.com.ico",
     "slug": "www-h2s",
     "status": "down",
-    "uptime": "24.16%",
+    "uptime": "24.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -818,7 +818,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-03": 68,
+      "2024-05-04": 65,
+      "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -1181,8 +1182,7 @@
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   }
 ]

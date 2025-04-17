@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 99,
+      "2025-04-17": 282,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.alphadevs.tech.ico",
     "slug": "www-alpha-devs",
     "status": "down",
-    "uptime": "46.00%",
+    "uptime": "45.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 99,
+      "2025-04-17": 282,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -772,9 +772,9 @@
     "url": "https://hack2skill.com",
     "icon": "https://icons.duckduckgo.com/ip3/hack2skill.com.ico",
     "slug": "hack2skill",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -784,6 +784,7 @@
     "timeMonth": 2180,
     "timeYear": 2043,
     "dailyMinutesDown": {
+      "2025-04-17": 0,
       "2024-08-21": 16,
       "2024-07-07": 66,
       "2024-06-20": 47
@@ -806,7 +807,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 99,
+      "2025-04-17": 282,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,

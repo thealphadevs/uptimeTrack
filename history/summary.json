@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alphadevs.tech.ico",
     "slug": "alpha-devs",
     "status": "down",
-    "uptime": "39.29%",
+    "uptime": "39.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 106,
+      "2025-12-03": 432,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 106,
+      "2025-12-03": 432,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -772,9 +772,9 @@
     "url": "https://hack2skill.com",
     "icon": "https://icons.duckduckgo.com/ip3/hack2skill.com.ico",
     "slug": "hack2skill",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -784,6 +784,7 @@
     "timeMonth": 1899,
     "timeYear": 2083,
     "dailyMinutesDown": {
+      "2025-12-03": 0,
       "2025-11-24": 28,
       "2025-09-07": 16
     }
@@ -805,7 +806,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 106,
+      "2025-12-03": 432,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,

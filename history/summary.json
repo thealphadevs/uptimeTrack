@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alphadevs.tech.ico",
     "slug": "alpha-devs",
     "status": "down",
-    "uptime": "32.71%",
+    "uptime": "32.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 86,
-    "timeDay": 39,
-    "timeWeek": 87,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 85,
+    "timeDay": 62,
+    "timeWeek": 78,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {
-      "2026-10-17": 206,
+      "2026-10-18": 213,
+      "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -379,8 +380,7 @@
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
-      "2025-10-19": 1440,
-      "2025-10-18": 1440
+      "2025-10-19": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.alphadevs.tech.ico",
     "slug": "www-alpha-devs",
     "status": "down",
-    "uptime": "32.72%",
+    "uptime": "32.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 103,
-    "timeDay": 19,
-    "timeWeek": 104,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "time": 101,
+    "timeDay": 67,
+    "timeWeek": 90,
+    "timeMonth": 101,
+    "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-10-17": 206,
+      "2026-10-18": 213,
+      "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -763,8 +764,7 @@
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
-      "2025-10-19": 1440,
-      "2025-10-18": 1440
+      "2025-10-19": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1588,
-    "timeDay": 866,
-    "timeWeek": 1040,
-    "timeMonth": 1023,
-    "timeYear": 1463,
+    "time": 1586,
+    "timeDay": 908,
+    "timeWeek": 1027,
+    "timeMonth": 1013,
+    "timeYear": 1461,
     "dailyMinutesDown": {
       "2025-11-24": 28,
       "2025-12-03": 21,
@@ -806,7 +806,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-17": 206,
+      "2026-10-18": 213,
+      "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -1169,8 +1170,7 @@
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
-      "2025-10-19": 1440,
-      "2025-10-18": 1440
+      "2025-10-19": 1440
     }
   }
 ]
